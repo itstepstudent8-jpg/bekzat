@@ -1,1 +1,2 @@
-print("Hello git who are you")
+print("hello world")
+print(i*i)
